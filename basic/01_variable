@@ -1,0 +1,13 @@
+const accountId =144553
+let accountemail = " beauty@gmail.com"
+var accountpass="1234"
+accountcity ="jaipur"
+console.log(accountId);
+console.table([accountId,accountemail,accountpass,accountcity]);
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
+if (condition) {
+    
+}

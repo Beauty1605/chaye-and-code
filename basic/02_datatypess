@@ -1,0 +1,20 @@
+"use strict" //treat all js code as newer version
+// alert(3+3) // we are using node js and web browser
+console.log(3+3)
+console.log("Beauty")
+let name= "Beauty"//string
+let age =18//int
+let isloggedin=false//bolean
+//preemtive datatypes|
+// number = >2 to power 53 
+//bigint = for big numbers not too much used 
+//string ==>" "
+
+// boolean => yes/ no = true / false
+//null=> stand alone value 
+// undefined =>(let state;)variable define only 
+// symbol => unique
+
+// object
+console.log(typeof null);
+console.log(typeof "beauty");
